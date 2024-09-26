@@ -1,1 +1,1 @@
-Contains some useful different cheat codes I collected from various sources. 
+Contains some useful cheat codes I collected from various sources. 
